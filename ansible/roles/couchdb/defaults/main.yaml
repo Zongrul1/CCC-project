@@ -1,0 +1,3 @@
+---
+wp_dir: couchdb
+mysql_dir: /data/mysql

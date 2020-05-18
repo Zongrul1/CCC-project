@@ -1,0 +1,7 @@
+- hosts: public
+  vars_files:
+    - host_vars/wordpress.yaml
+  gather_facts: false
+
+  roles:
+    - role: wordpress

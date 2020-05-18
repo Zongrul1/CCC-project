@@ -2,7 +2,7 @@
 
 
 ## Deadlines
-Wednesday **20th May**.
+Wednesday **27th May**.
 
 ## Schedule
 
@@ -15,24 +15,29 @@ Wednesday **20th May**.
 
 ## About instances
 
-Four instances exist. Each one has 2 VCPU, 9 GB RAM and one public IP address.
+Four instances exist. Each one has 2 VCPU, 9 GB RAM and private IP address.
+One instance for running program, which is 172.26.133.24(demo1)
+And the rest instances are for storage.
 
 #### How to connect to an instance
 
-Move to the directory where ccca2.pem is located, then use the following commands:
-
+Move to the directory where ins1.pem is located, then use the following commands:  
 ```
-#Execute only once
-chmod 600 ccca2.pem
-
-#Execute every time you wanna connect to the instance
-#The IP could be changed to the corresponding one
-ssh -i ccca2.pem ubuntu@45.113.235.189
-```
+Execute only once
+chmod 600 ins1.pem
+Execute every time you wanna connect to the instance
+The IP could be changed to the corresponding one
+ssh -i ccca2.pem ubuntu@172.26.130.129
+ ```
 
 ## Technical Framework
 
-TBD
+- TBD  
+- Ansible  
+- Docker  
+- CouchDB  
+- Twitter API
+- Python
 
 ## For Reference
 
