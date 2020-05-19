@@ -1,0 +1,6 @@
+# Variabels that congtains user credentials to access tweeter API
+
+ACCESS_TOKEN="1257920404124954627-D2NUjPdS2Az7Zf0KAnjNKC9cOmAtEQ"
+ACCESS_TOKEN_SECRET="9WnpZaZClKmwUxZ3vjdinAu8SG5r8no1eLugOZ2CVe5eF"
+API_KEY = "dhMCAywgf7yQFOJipIuZpKQJK"
+API_SECRET_KEY = "YYU9Sgi8xf7iPAs8cyGhSeDDImrUW8BNNXWHZAEWk0PZTe4qwp"
