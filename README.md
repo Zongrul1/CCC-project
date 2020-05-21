@@ -14,7 +14,7 @@ Wednesday **27th May**.
 
 ## Report 
 
-[Google Docs](https://docs.google.com/document/d/1cmAZPMd_cMoZovoOQ9oAVQEcvcezhG1WOlRujWO3Qxw/edit)
+[Google Docs](https://docs.google.com/document/d/1cmAZPMd_cMoZovoOQ9oAVQEcvcezhG1WOlRujWO3Qxw/edit?usp=sharing)
 
 ## About instances
 
