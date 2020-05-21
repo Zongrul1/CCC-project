@@ -12,7 +12,8 @@ Wednesday **27th May**.
 | 6 May - 12 May  | xxx |
 | 13 May - 19 May | xxx |
 
-
+## Report 
+[Google Docs](https://docs.google.com/document/d/1cmAZPMd_cMoZovoOQ9oAVQEcvcezhG1WOlRujWO3Qxw/edit)
 ## About instances
 
 Four instances exist. Each one has 2 VCPU, 9 GB RAM and private IP address.
@@ -27,7 +28,7 @@ Execute only once
 chmod 600 ins1.pem
 Execute every time you wanna connect to the instance
 The IP could be changed to the corresponding one
-ssh -i ccca2.pem ubuntu@172.26.130.129
+ssh -i ins2.pem ubuntu@172.26.130.129
  ```
 
 ## Technical Framework
