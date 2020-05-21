@@ -13,12 +13,11 @@ couch = couchdb.Server("http://admin:admin@172.26.130.129:5984/")
 
 
 for tweet in tweepy.Cursor(api.search,q=keywords,geocode = geo,count=100,
-                           lang="en",
                            tweet_mode = "extended").items():
     data = tweet._json
-    if "covid19_au_second" in couch:
-        db = couch["covid19_au_second"]
+    if "covid19_au_with_other_language" in couch:
+        db = couch["covid19_au_with_other_language"]
     else:
-        db = couch.create("covid19_au_second")
+        db = couch.create("covid19_au_with_other_language")
 
     db.save(data)
