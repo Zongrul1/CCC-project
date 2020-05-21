@@ -12,6 +12,9 @@ Wednesday **27th May**.
 | 6 May - 12 May  | xxx |
 | 13 May - 19 May | xxx |
 
+## Report 
+
+[Google Docs](https://docs.google.com/document/d/1cmAZPMd_cMoZovoOQ9oAVQEcvcezhG1WOlRujWO3Qxw/edit)
 
 ## About instances
 
@@ -27,7 +30,11 @@ Execute only once
 chmod 600 ins1.pem
 Execute every time you wanna connect to the instance
 The IP could be changed to the corresponding one
-ssh -i ccca2.pem ubuntu@172.26.130.129
+<<<<<<< HEAD
+ssh -i ins2.pem ubuntu@172.26.130.129
+=======
+ssh -i ins1.pem ubuntu@172.26.130.129
+>>>>>>> bdaee24e15e670b01cccf8b83441eb48c1c2305f
  ```
 
 ## Technical Framework
