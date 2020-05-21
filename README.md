@@ -30,7 +30,11 @@ Execute only once
 chmod 600 ins1.pem
 Execute every time you wanna connect to the instance
 The IP could be changed to the corresponding one
+<<<<<<< HEAD
 ssh -i ins2.pem ubuntu@172.26.130.129
+=======
+ssh -i ins1.pem ubuntu@172.26.130.129
+>>>>>>> bdaee24e15e670b01cccf8b83441eb48c1c2305f
  ```
 
 ## Technical Framework
