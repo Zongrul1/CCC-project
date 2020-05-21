@@ -17,11 +17,10 @@ keywords = ["COVID19 OR CORONAVIRUS OR EPIDEMIC OR PANDEMIC OR OUTBREAK"]
 couch = couchdb.Server("http://admin:admin@172.26.130.129:5984/")
 
 for tweet in tweepy.Cursor(api.search,q=keywords,count = 100,
-                           lang="en",
                            tweet_mode = "extended").items():
     data = tweet._json
-    if "covid19_global" in couch:
-        db2 = couch["covid19_global"]
+    if "covid19_global_with_other_language" in couch:
+        db2 = couch["covid19_global_with_other_language"]
     else:
-        db2 = couch.create("covid19_global")
+        db2 = couch.create("covid19_global_with_other_language")
     db2.save(data)
