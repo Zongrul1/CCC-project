@@ -1,0 +1,340 @@
+sa3_name, dwelling, area_sqkm, state_name, sa3_code_2016, population
+"Queanbeyan",24790,6511.1906,"New South Wales","10102",57325
+"Snowy Mountains",11732,14283.4221,"New South Wales","10103",19369
+"South Coast",41099,9864.86800000004,"New South Wales","10104",70636
+"Goulburn - Mulwaree",16966,9099.9086,"New South Wales","10105",35557
+"Young - Yass",16084,12136.1738,"New South Wales","10106",35946
+"Gosford",75995,988.426300000001,"New South Wales","10201",169115
+"Wyong",68391,692.646100000001,"New South Wales","10202",158622
+"Bathurst",19934,6984.18299999999,"New South Wales","10301",46475
+"Lachlan Valley",26220,41000.7206,"New South Wales","10302",55380
+"Lithgow - Mudgee",21945,16044.6246,"New South Wales","10303",46653
+"Orange",24731,6267.5322,"New South Wales","10304",57656
+"Clarence Valley",24649,9263.1939,"New South Wales","10401",50265
+"Coffs Harbour",38765,3966.5639,"New South Wales","10402",85981
+"Bourke - Cobar - Coonamble",12775,162765.126,"New South Wales","10501",24126
+"Broken Hill and Far West",11099,146860.1758,"New South Wales","10502",20174
+"Dubbo",30421,29738.3907000001,"New South Wales","10503",69412
+"Lower Hunter",36058,8566.7809,"New South Wales","10601",87676
+"Maitland",29338,380.1168,"New South Wales","10602",74132
+"Port Stephens",35415,1071.9768,"New South Wales","10603",71437
+"Upper Hunter",13890,11472.417,"New South Wales","10604",30138
+"Dapto - Port Kembla",29804,163.6962,"New South Wales","10701",75422
+"Illawarra Catchment Reserve",5,744.3423,"New South Wales","10702",8
+"Kiama - Shellharbour",36293,390.7983,"New South Wales","10703",89775
+"Wollongong",54245,240.0822,"New South Wales","10704",128358
+"Great Lakes",18154,3133.0446,"New South Wales","10801",31319
+"Kempsey - Nambucca",23116,5339.32489999999,"New South Wales","10802",48100
+"Lord Howe Island",221,16.2918,"New South Wales","10803",381
+"Port Macquarie",36766,3687.77,"New South Wales","10804",78723
+"Taree - Gloucester",25366,6675.0682,"New South Wales","10805",53864
+"Albury",27935,5597.48489999999,"New South Wales","10901",61301
+"Lower Murray",6395,63968.2369,"New South Wales","10902",12563
+"Upper Murray exc. Albury",21221,28231.9536,"New South Wales","10903",41890
+"Armidale",16372,16395.6492,"New South Wales","11001",37056
+"Inverell - Tenterfield",18468,30568.6383,"New South Wales","11002",38428
+"Moree - Narrabri",11870,32026.5412,"New South Wales","11003",25616
+"Tamworth - Gunnedah",35854,20155.0876,"New South Wales","11004",80474
+"Lake Macquarie - East",50446,138.0858,"New South Wales","11101",119909
+"Lake Macquarie - West",31305,507.6329,"New South Wales","11102",75163
+"Newcastle",72495,224.8933,"New South Wales","11103",163773
+"Richmond Valley - Coastal",37446,1572.8877,"New South Wales","11201",78238
+"Richmond Valley - Hinterland",31219,7390.59860000001,"New South Wales","11202",70062
+"Tweed Valley",42669,1307.6562,"New South Wales","11203",91407
+"Griffith - Murrumbidgee (West)",20522,28859.6885,"New South Wales","11301",48178
+"Tumut - Tumbarumba",6922,9174.7645,"New South Wales","11302",14469
+"Wagga Wagga",39735,18950.5659,"New South Wales","11303",93302
+"Shoalhaven",54355,4374.4257,"New South Wales","11401",99437
+"Southern Highlands",21620,2330.0144,"New South Wales","11402",47964
+"Baulkham Hills",48030,72.0257,"New South Wales","11501",143627
+"Dural - Wisemans Ferry",8861,569.2386,"New South Wales","11502",26191
+"Hawkesbury",8864,2492.0101,"New South Wales","11503",24635
+"Rouse Hill - McGraths Hill",10463,118.2241,"New South Wales","11504",33169
+"Blacktown",46800,56.3066,"New South Wales","11601",134600
+"Blacktown - North",29046,103.0669,"New South Wales","11602",92774
+"Mount Druitt",35829,82.7116,"New South Wales","11603",112047
+"Botany",18697,27.7978,"New South Wales","11701",46677
+"Sydney Inner City",112753,25.0641000000001,"New South Wales","11703",214294
+"Eastern Suburbs - South",58686,31.5481,"New South Wales","11802",140698
+"Bankstown",58643,68.6674,"New South Wales","11901",171248
+"Canterbury",47595,29.9646,"New South Wales","11902",135089
+"Hurstville",46930,33.9553,"New South Wales","11903",127157
+"Kogarah - Rockdale",53982,31.3478999999999,"New South Wales","11904",137606
+"Canada Bay",35771,19.7471,"New South Wales","12001",85289
+"Leichhardt",25482,10.6577,"New South Wales","12002",56044
+"Strathfield - Burwood - Ashfield",59548,34.1433,"New South Wales","12003",151653
+"Chatswood - Lane Cove",46794,33.1739,"New South Wales","12101",112176
+"Hornsby",30127,137.3989,"New South Wales","12102",80589
+"Ku-ring-gai",42670,85.5465999999998,"New South Wales","12103",118348
+"North Sydney - Mosman",48781,18.9756,"New South Wales","12104",94149
+"Manly",18790,14.3455,"New South Wales","12201",41937
+"Pittwater",24638,90.6495,"New South Wales","12202",60451
+"Warringah",58077,149.2124,"New South Wales","12203",150668
+"Camden",21052,73.8688000000001,"New South Wales","12301",62589
+"Nerang",25312,123.1533,"Queensland","30906",67221
+"Marrickville - Sydenham - Petersham",23963,12.6699,"New South Wales","11702",54593
+"Eastern Suburbs - North",60483,26.1849,"New South Wales","11801",126297
+"Campbelltown (NSW)",55665,334.2221,"New South Wales","12302",158265
+"Wollondilly",14380,870.360400000001,"New South Wales","12303",41129
+"Blue Mountains",34012,942.4079,"New South Wales","12401",76755
+"Blue Mountains - South",20,2456.9093,"New South Wales","12402",0
+"Penrith",51591,356.8585,"New South Wales","12403",139662
+"Richmond - Windsor",13610,178.8387,"New South Wales","12404",36494
+"St Marys",19329,33.1146,"New South Wales","12405",54009
+"Auburn",29767,33.0601,"New South Wales","12501",89743
+"Carlingford",24128,25.6874,"New South Wales","12502",66541
+"Merrylands - Guildford",50942,55.7969,"New South Wales","12503",151177
+"Parramatta",53815,47.0914000000001,"New South Wales","12504",140945
+"Pennant Hills - Epping",16968,22.1743,"New South Wales","12601",47652
+"Ryde - Hunters Hill",52965,47.1626,"New South Wales","12602",134434
+"Bringelly - Green Valley",31369,291.4688,"New South Wales","12701",102779
+"Fairfield",58256,123.7701,"New South Wales","12702",185747
+"Liverpool",39634,123.8297,"New South Wales","12703",117302
+"Cronulla - Miranda - Caringbah",45296,55.6181,"New South Wales","12801",109748
+"Sutherland - Menai - Heathcote",38934,240.2471,"New South Wales","12802",108025
+"Ballarat",45802,448.348700000001,"Victoria","20101",103836
+"Creswick - Daylesford - Ballan",14363,3666.673,"Victoria","20102",28269
+"Maryborough - Pyrenees",12502,6172.45420000001,"Victoria","20103",25292
+"Bendigo",41934,287.4438,"Victoria","20201",94323
+"Heathcote - Castlemaine - Kyneton",21968,3920.9382,"Victoria","20202",47306
+"Loddon - Elmore",5810,7633.5242,"Victoria","20203",11471
+"Barwon - West",7402,2579.8385,"Victoria","20301",19001
+"Geelong",81275,918.891699999999,"Victoria","20302",188187
+"Surf Coast - Bellarine Peninsula",43243,929.969100000001,"Victoria","20303",71869
+"Upper Goulburn Valley",28639,13959.3182,"Victoria","20401",53831
+"Wangaratta - Benalla",21749,6545.08569999999,"Victoria","20402",46126
+"Wodonga - Alpine",32720,13501.1315,"Victoria","20403",70367
+"Baw Baw",20919,3933.8416,"Victoria","20501",48569
+"Gippsland - East",24287,21713.8498,"Victoria","20502",45075
+"Gippsland - South West",41794,4381.6191,"Victoria","20503",61602
+"Latrobe Valley",34038,1479.6674,"Victoria","20504",73048
+"Wellington",22139,10044.7738,"Victoria","20505",42848
+"Brunswick - Coburg",39419,20.4133,"Victoria","20601",86140
+"Darebin - South",23491,14.0275,"Victoria","20602",52082
+"Essendon",29926,18.215,"Victoria","20603",66566
+"Melbourne City",75714,31.4622,"Victoria","20604",136009
+"Port Phillip",57849,25.6958,"Victoria","20605",100738
+"Sunbury",15252,260.6847,"Victoria","21004",39338
+"Tullamarine - Broadmeadows",53114,294.0954,"Victoria","21005",160274
+"Knox",59190,118.3019,"Victoria","21101",154086
+"Manningham - East",9196,66.5619,"Victoria","21102",25942
+"Maroondah",44429,61.1871999999998,"Victoria","21103",110065
+"Whitehorse - East",24224,26.5696,"Victoria","21104",60827
+"Yarra Ranges",58555,1605.937,"Victoria","21105",148770
+"Cardinia",35019,1282.327,"Victoria","21201",94293
+"Casey - North",46214,116.503,"Victoria","21202",131183
+"Casey - South",55752,292.9259,"Victoria","21203",168023
+"Dandenong",67881,151.0513,"Victoria","21204",186612
+"Monash",67397,79.4732999999999,"Victoria","21205",175161
+"Brimbank",65906,106.8497,"Victoria","21301",185573
+"Hobsons Bay",35253,62.2158000000001,"Victoria","21302",83944
+"Maribyrnong",35716,31.2254,"Victoria","21303",82158
+"Melton - Bacchus Marsh",53771,671.943600000001,"Victoria","21304",153431
+"Wyndham",77298,544.1195,"Victoria","21305",221764
+"Frankston",56846,129.598,"Victoria","21401",134228
+"Mornington Peninsula",89084,724.167900000002,"Victoria","21402",154952
+"Grampians",29403,38139.2062,"Victoria","21501",58710
+"Mildura",24095,22082.4836,"Victoria","21502",53930
+"Murray River - Swan Hill",17658,17851.0467,"Victoria","21503",37291
+"Campaspe",16883,4554.56869999999,"Victoria","21601",37220
+"Moira",13786,4046.3738,"Victoria","21602",29132
+"Shepparton",26902,2333.1626,"Victoria","21603",63605
+"Glenelg - Southern Grampians",17883,12946.1764,"Victoria","21701",35571
+"Colac - Corangamite",19413,7936.55480000001,"Victoria","21703",36953
+"Warrnambool",23074,5496.1773,"Victoria","21704",50041
+"Capalaba",27117,89.2958999999999,"Queensland","30101",71626
+"Cleveland - Stradbroke",35262,480.9783,"Queensland","30102",82780
+"Wynnum - Manly",27430,82.8584,"Queensland","30103",68726
+"Bald Hills - Everton Park",15950,35.9309,"Queensland","30201",40808
+"Chermside",30524,32.2389,"Queensland","30202",69064
+"Nundah",17108,87.0318999999999,"Queensland","30203",38643
+"Sandgate",24134,31.7473,"Queensland","30204",58015
+"Carindale",20131,26.5108,"Queensland","30301",50204
+"Stonnington - West",36151,11.9294,"Victoria","20606",62493
+"Yarra",44390,20.6163,"Victoria","20607",87400
+"Boroondara",69416,60.0157000000001,"Victoria","20701",167182
+"Manningham - West",36233,48.6724,"Victoria","20702",90327
+"Whitehorse - West",41883,38.0551,"Victoria","20703",101912
+"Bayside",41114,37.2111,"Victoria","20801",97127
+"Darebin - North",39962,39.4435999999999,"Victoria","20902",94511
+"Nillumbik - Kinglake",23405,751.7682,"Victoria","20903",65180
+"Whittlesea - Wallan",76744,997.439400000001,"Victoria","20904",213787
+"Keilor",23624,42.4250000000001,"Victoria","21001",58530
+"Macedon Ranges",11418,992.107,"Victoria","21002",29608
+"Holland Park - Yeronga",32127,27.565,"Queensland","30302",71058
+"Mt Gravatt",26592,79.3867999999999,"Queensland","30303",71168
+"Nathan",15245,24.4776,"Queensland","30304",38887
+"Rocklea - Acacia Ridge",20352,85.2444,"Queensland","30305",59488
+"Mudgeeraba - Tallebudgera",11531,189.204,"Queensland","30905",33407
+"Glen Eira",63039,40.7002,"Victoria","20802",148421
+"Kingston",50762,69.8633,"Victoria","20803",116956
+"Stonnington - East",17888,13.722,"Victoria","20804",41350
+"Banyule",50153,62.6133,"Victoria","20901",121891
+"Moreland - North",30860,30.3779,"Victoria","21003",75560
+"Ormeau - Oxenford",43256,519.861600000001,"Queensland","30907",120895
+"Outback - South",10490,625222.9542,"Queensland","31503",17608
+"Buderim",21578,76.3839,"Queensland","31601",54480
+"Caloundra",37091,113.1062,"Queensland","31602",80447
+"Maroochy",29814,70.3492999999999,"Queensland","31603",56290
+"Noosa",21495,92.1032000000001,"Queensland","31605",41136
+"Sunshine Coast Hinterland",20380,1568.0164,"Queensland","31606",49583
+"Nambour",17306,345.8864,"Queensland","31607",42619
+"Noosa Hinterland",9333,820.065999999999,"Queensland","31608",21811
+"Charters Towers - Ayr - Ingham",20349,76209.8053,"Queensland","31801",42174
+"Townsville",80174,3826.29240000001,"Queensland","31802",186768
+"Bundaberg",41428,3786.0126,"Queensland","31901",87853
+"Burnett",23706,30736.8312,"Queensland","31902",49017
+"Gympie - Cooloola",23350,6975.22779999999,"Queensland","31903",49484
+"Hervey Bay",26916,251.5569,"Queensland","31904",56632
+"Sunnybank",17088,22.16,"Queensland","30306",49688
+"Centenary",11898,16.9755,"Queensland","30401",32488
+"Kenmore - Brookfield - Moggill",16114,134.6112,"Queensland","30402",45401
+"Sherwood - Indooroopilly",20856,21.2964,"Queensland","30403",51042
+"The Gap - Enoggera",19336,96.7679999999999,"Queensland","30404",49987
+"Brisbane Inner",35961,13.5589,"Queensland","30501",67562
+"Brisbane Inner - East",17946,15.5989,"Queensland","30502",40585
+"Brisbane Inner - North",41439,30.9461000000001,"Queensland","30503",86202
+"Brisbane Inner - West",24226,21.6355,"Queensland","30504",55904
+"Cairns - North",23294,160.3157,"Queensland","30601",52717
+"Cairns - South",43765,633.4659,"Queensland","30602",100714
+"Innisfail - Cassowary Coast",16747,5995.1825,"Queensland","30603",34669
+"Port Douglas - Daintree",6528,2421.0913,"Queensland","30604",11583
+"Tablelands (East) - Kuranda",19348,12127.9129,"Queensland","30605",40434
+"Darling Downs (West) - Maranoa",21977,141252.7846,"Queensland","30701",44048
+"Darling Downs - East",18058,16653.3007,"Queensland","30702",42111
+"Granite Belt",18545,8433.9715,"Queensland","30703",40136
+"Central Highlands (Qld)",14124,60225.3937,"Queensland","30801",28932
+"Rockhampton",51435,18328.135,"Queensland","30803",116112
+"Biloela",7002,28550.1865,"Queensland","30804",14260
+"Gladstone",29003,10484.2862,"Queensland","30805",61603
+"Broadbeach - Burleigh",30981,33.6726,"Queensland","30901",61653
+"Coolangatta",25747,34.9724999999999,"Queensland","30902",53148
+"Gold Coast - North",31215,40.6693,"Queensland","30903",65842
+"Gold Coast Hinterland",7688,827.959200000001,"Queensland","30904",18503
+"Robina",19760,33.6325,"Queensland","30908",49485
+"Southport",26073,34.9594,"Queensland","30909",58881
+"Surfers Paradise",23568,19.801,"Queensland","30910",40806
+"Forest Lake - Oxley",25134,63.7142,"Queensland","31001",72191
+"Ipswich Hinterland",25149,6135.78329999999,"Queensland","31002",62787
+"Ipswich Inner",41425,378.0564,"Queensland","31003",104202
+"Springfield - Redbank",28979,103.593,"Queensland","31004",83881
+"Beaudesert",5819,1628.0131,"Queensland","31101",13909
+"Beenleigh",16435,60.1506,"Queensland","31102",40876
+"Browns Plains",27208,169.579,"Queensland","31103",79848
+"Jimboomba",15007,582.4324,"Queensland","31104",45660
+"Loganlea - Carbrook",22131,88.7274999999999,"Queensland","31105",59735
+"Springwood - Kingston",29159,57.2427,"Queensland","31106",77205
+"Bowen Basin - North",17470,79852.7820000001,"Queensland","31201",33532
+"Mackay",50587,7613.29639999999,"Queensland","31202",114904
+"Whitsunday",9684,2674.0276,"Queensland","31203",21232
+"Bribie - Beachmere",16713,255.4466,"Queensland","31301",32971
+"Caboolture",25433,314.7209,"Queensland","31302",67487
+"Caboolture Hinterland",5200,3388.2856,"Queensland","31303",13246
+"Narangba - Burpengary",22723,172.4136,"Queensland","31304",62914
+"Redcliffe",27593,213.5898,"Queensland","31305",59578
+"The Hills District",30295,668.680899999999,"Queensland","31401",86151
+"North Lakes",27037,66.3175,"Queensland","31402",71547
+"Strathpine",14516,38.3965,"Queensland","31403",37229
+"Far North",13258,250877.5904,"Queensland","31501",32425
+"Outback - North",14480,307082.1758,"Queensland","31502",29732
+"Toowoomba",62804,2258.7955,"Queensland","31701",149588
+"Maryborough",21288,6752.9516,"Queensland","31905",44894
+"West Torrens",28460,38.3988,"South Australia","40403",60969
+"Adelaide City",11603,15.5733,"South Australia","40101",22096
+"Adelaide Hills",28829,1388.1168,"South Australia","40102",71896
+"Norwood - Payneham - St Peters",17418,15.1036,"South Australia","40105",35363
+"Unley",17052,14.2703,"South Australia","40107",37695
+"Gawler - Two Wells",14418,306.865,"South Australia","40201",34625
+"Playford",36604,356.8029,"South Australia","40202",90123
+"Port Adelaide - East",29002,34.8399,"South Australia","40203",68067
+"Salisbury",54396,150.1709,"South Australia","40204",136766
+"Tea Tree Gully",38435,91.3140000000002,"South Australia","40205",93534
+"Mitcham",26204,74.3702000000001,"South Australia","40303",63599
+"Onkaparinga",72183,519.371600000001,"South Australia","40304",168106
+"Charles Sturt",49509,53.3186,"South Australia","40401",108619
+"Port Adelaide - West",26465,67.7726,"South Australia","40402",57942
+"Barossa",15363,2837.1519,"South Australia","40501",35460
+"Lower North",11667,13728.959,"South Australia","40502",22589
+"Mid North",14003,14409.4798,"South Australia","40503",27293
+"Yorke Peninsula",18436,6740.7625,"South Australia","40504",25170
+"Eyre Peninsula and South West",30400,235305.4796,"South Australia","40601",56565
+"Outback - North and East",14268,642510.5005,"South Australia","40602",26245
+"Burnside",19283,27.5183,"South Australia","40103",43919
+"Campbelltown (SA)",21734,25.368,"South Australia","40104",50476
+"Fleurieu - Kangaroo Island",31624,7363.57960000001,"South Australia","40701",50381
+"Prospect - Walkerville",12442,11.3215,"South Australia","40106",28105
+"Limestone Coast",31918,21337.0782,"South Australia","40702",64742
+"Murray and Mallee",36356,36782.081,"South Australia","40703",69596
+"Augusta - Margaret River - Busselton",26510,3664.3228,"Western Australia","50101",50778
+"Bunbury",44787,5449.51349999999,"Western Australia","50102",102685
+"Manjimup",11943,15688.5752,"Western Australia","50103",22788
+"Mandurah",48052,1032.8628,"Western Australia","50201",96719
+"Cottesloe - Claremont",28444,48.7155,"Western Australia","50301",67528
+"Perth City",52909,43.5243,"Western Australia","50302",101667
+"Bayswater - Bassendean",36904,44.6692,"Western Australia","50401",80460
+"Mundaring",16450,685.4312,"Western Australia","50402",42042
+"Swan",49065,1032.3312,"Western Australia","50403",128507
+"Joondalup",60520,100.4725,"Western Australia","50501",154733
+"Stirling",87782,99.3260000000001,"Western Australia","50502",192250
+"Wanneroo",70299,684.200700000001,"Western Australia","50503",187881
+"Armadale",31917,559.5261,"Western Australia","50601",79671
+"Belmont - Victoria Park",33697,60.1098999999999,"Western Australia","50602",70796
+"Canning",37210,68.1880999999999,"Western Australia","50603",93512
+"Gosnells",44377,127.2975,"Western Australia","50604",118113
+"Kalamunda",22712,283.8,"Western Australia","50605",57490
+"Serpentine - Jarrahdale",9670,904.7637,"Western Australia","50606",26840
+"South Perth",20189,20.307,"Western Australia","50607",42036
+"Cockburn",41714,148.2099,"Western Australia","50701",101917
+"Fremantle",18220,41.3304,"Western Australia","50702",36649
+"Kwinana",15245,120.0121,"Western Australia","50703",38855
+"Melville",42146,53.4538,"Western Australia","50704",100634
+"Rockingham",50888,257.6898,"Western Australia","50705",125117
+"Albany",28456,37887.9924999999,"Western Australia","50901",59185
+"Wheat Belt - North",30152,110694.5781,"Western Australia","50902",55909
+"Wheat Belt - South",10153,48762.806,"Western Australia","50903",20162
+"Kimberley",18164,419259.7904,"Western Australia","51001",34340
+"East Pilbara",10961,390723.7799,"Western Australia","51002",25088
+"West Pilbara",13311,116066.0891,"Western Australia","51003",34536
+"Esperance",7815,55660.6598,"Western Australia","51101",15948
+"Gascoyne",7353,135064.0785,"Western Australia","51102",9489
+"Goldfields",17321,714513.0765,"Western Australia","51103",39061
+"Mid West",26834,466794.7549,"Western Australia","51104",54062
+"Brighton",6758,176.0777,"Tasmania","60101",17039
+"Hobart - North East",22919,265.9415,"Tasmania","60102",52539
+"Hobart - North West",24110,168.2819,"Tasmania","60103",53117
+"Hobart - South and West",13699,328.5063,"Tasmania","60104",32890
+"Hobart Inner",23808,62.2246,"Tasmania","60105",50530
+"Sorell - Dodges Ferry",7842,694.3265,"Tasmania","60106",16097
+"Launceston",36743,260.7088,"Tasmania","60201",80984
+"Meander Valley - West Tamar",10713,3978.9606,"Tasmania","60202",22449
+"North East",20092,15735.6666,"Tasmania","60203",37100
+"Central Highlands (Tas.)",6646,18426.733,"Tasmania","60301",11163
+"Huon - Bruny Island",10162,2192.675,"Tasmania","60302",19156
+"South East Coast",6278,3202.6087,"Tasmania","60303",6788
+"Devonport",20613,1894.3583,"Tasmania","60402",44250
+"West Coast",9466,19025.9578,"Tasmania","60403",17299
+"Darwin City",12833,40.6174,"Northern Territory","70101",25825
+"Darwin Suburbs",21175,132.4416,"Northern Territory","70102",53644
+"Litchfield",8298,2938.3179,"Northern Territory","70103",23544
+"Holdfast Bay",17210,13.14,"South Australia","40301",33710
+"Marion",40486,56.1996,"South Australia","40302",90039
+"Burnie - Ulverstone",22261,1604.4734,"Tasmania","60401",47574
+"Palmerston",13108,52.5288,"Northern Territory","70104",33670
+"Barkly",2599,303213.9847,"Northern Territory","70202",5528
+"Daly - Tiwi - West Arnhem",6231,112294.8534,"Northern Territory","70203",16101
+"East Arnhem",3636,33606.5893,"Northern Territory","70204",13008
+"Katherine",7276,326250.2655,"Northern Territory","70205",18661
+"Belconnen",39096,112.1467,"Australian Capital Territory","80101",96000
+"Canberra East",683,211.9214,"Australian Capital Territory","80103",1584
+"Alice Springs",15426,569564.7295,"Northern Territory","70201",36062
+"Gungahlin",26196,91.8565,"Australian Capital Territory","80104",71093
+"North Canberra",23374,44.7227,"Australian Capital Territory","80105",52992
+"South Canberra",13742,44.4112,"Australian Capital Territory","80106",26955
+"Tuggeranong",33420,159.7084,"Australian Capital Territory","80107",85093
+"Weston Creek",9498,18.1487,"Australian Capital Territory","80108",22995
+"Woden Valley",15247,28.6004,"Australian Capital Territory","80109",34803
+"Molonglo",1979,27.1506,"Australian Capital Territory","80110",4587
+"Urriarra - Namadgi",201,1619.5054,"Australian Capital Territory","80111",596
+"Christmas Island",584,136.1356,"Other Territories","90101",1838
+"Cocos (Keeling) Islands",185,13.7163,"Other Territories","90102",544
+"Jervis Bay",116,67.8134,"Other Territories","90103",392

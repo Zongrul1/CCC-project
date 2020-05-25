@@ -1,0 +1,193 @@
+lon, sector_type, facility_name, suburb, address, service, postcode, facility_id, lat
+152.95217,"Public","Nambour General Hospital","Nambour","Hospital Road","Sunshine Coast","4560","49",-26.621088
+153.381504,"Public","Gold Coast University Hospital","Southport","1 Hospital Boulevard","Gold Coast","4215","936",-27.96004
+152.050698,"Public","Biggenden Hospital","Biggenden","Alice Street","Wide Bay","4621","61",-25.506398
+152.333855,"Public","Bundaberg Base Hospital","Bundaberg","273 Bourbong Street","Wide Bay","4670","62",-24.868973
+151.9568,"Public","Cherbourg Hospital","Cherbourg","Barambah Ave","Darling Downs","4605","63",-26.2916
+152.273438,"Public","Childers Hospital","Childers","44 Broadhurst Street","Wide Bay","4660","64",-25.239719
+151.1266,"Public","Eidsvold Hospital","Eidsvold","Eidsvold Theodore Road","Wide Bay","4627","65",-25.3834
+151.6044,"Public","Gayndah Hospital","Gayndah","69 Wharton Street","Wide Bay","4625","66",-25.6316
+151.953545,"Public","Gin Gin Hospital","Gin Gin","5 King Street","Wide Bay","4671","67",-24.985857
+152.6585,"Public","Gympie Hospital","Gympie","12 Henry Street","Sunshine Coast","4570","68",-26.1845
+152.820938,"Public","Hervey Bay Hospital","Urraween","141 Urraween Road","Wide Bay","4655","69",-25.298723
+151.838882,"Public","Kinagroy Hospital","Kingaroy","166 Youngman St","Darling Downs","4610","70",-26.532266
+152.6899,"Public","Maryborough Hospital","Maryborough","185 Walker Street","Wide Bay","4650","71",-25.5226
+151.1129,"Public","Monto Hospital","Monto","35 Flinders St","Wide Bay","4630","72",-24.865
+151.2942,"Public","Mundubbera Hospital","Mundubbera","96 Leichhardt Street","Wide Bay","4626","74",-25.5884
+151.9505,"Public","Murgon Hospital","Murgon","18 Nutt Strreet","Darling Downs","4605","75",-26.239
+152.008324,"Public","Nanango Hospital","Nanango","135 Brisbane Street","Darling Downs","4615","76",-26.66646
+151.878954,"Public","Wondai Hospital","Wondai","Bramston Street","Darling Downs","4606","77",-26.323091
+150.6343,"Public","Chinchilla Hospital","Chinchilla","Slessar St & Wambo St","Darling Downs","4413","91",-26.7411
+151.2775,"Public","Dalby Hospital","Dalby","Hospital Road","Darling Downs","4405","92",-27.1679
+150.302338,"Public","Goondiwindi Hospital","Goondiwindi","4-18 Bowen St","Darling Downs","4390","93",-28.547961
+151.061325,"Public","Inglewood Hospital","Inglewood","24606 Cunningham Highway","Darling Downs","4387","94",-28.417886
+151.1053,"Public","Jandowae Hospital","Jandowae","13 Dalby Street","Darling Downs","4410","95",-26.7812
+150.190773,"Public","Miles Hospital","Miles","67 Marian Street","Darling Downs","4415","97",-26.658098
+151.262872,"Public","Millmerran Hospital","Millmerran","50 Commens St","Darling Downs","4357","98",-27.879914
+151.72,"Public","Oakey Hospital","Oakey","5 Beale Street","Darling Downs","4401","99",-27.4277
+151.929398,"Public","Stanthorpe Hospital","Stanthorpe","8 McGregor Terrace","Darling Downs","4380","100",-28.661015
+150.4564,"Public","Tara Hospital","Tara","15 Bilton Street","Darling Downs","4421","101",-27.2739
+149.798597,"Public","Taroom Hospital","Taroom","Miller Street","Darling Downs","4420","102",-25.639067
+151.1789,"Public","Texas Hospital","Texas","Mingoola Road","Darling Downs","4385","103",-28.8573
+151.9449,"Public","Toowoomba Hospital","Toowoomba","Pechey Street","Darling Downs","4350","104",-27.569965
+152.01796,"Public","Warwick Hospital","Warwick","56 Locke Street","Darling Downs","4370","105",-28.224386
+146.5903,"Public","Augathella Hospital","Augathella","Cavanagh St","South West","4477","111",-25.7954
+146.239478,"Public","Charleville Hospital","Charleville","72 King Street","South West","4470","112",-26.409903
+145.689047,"Public","Cunnamulla Hospital","Cunnamulla","56 Wicks St","South West","4490","113",-28.070932
+148.228806,"Public","Dirranbandi Hospital","Dirranbandi","36 Crothers Street","South West","4486","114",-28.579007
+148.5628,"Public","Injune Hospital","Injune","Fifth Ave & Hutton Street","South West","4454","115",-25.8469
+147.972183,"Public","Mitchell Hospital","Mitchell","95 Ann Street","South West","4465","116",-26.490395
+148.988876,"Public","Mungindi Hospital","Mungindi","80 Barwon Street","South West","2406","117",-28.972704
+144.275192,"Public","Quilpie Hospital","Quilpie","30 Gyrica St","South West","4480","118",-26.617143
+148.775511,"Public","Roma Hospital","Roma","197 - 243 McDowall Street","South West","4455","119",-26.569085
+148.592682,"Public","St George Hospital","St George","1 Victoria Street","South West","4487","120",-28.02726
+149.0685,"Public","Surat Hospital","Surat","Ivan Street","South West","4417","121",-27.1565
+146.637131,"Public","Alpha Hospital","Alpha","3 Gordon Street","Central West","4724","131",-23.655145
+149.809181,"Public","Baralaba Hospital","Baralaba","1 Stopford Street","Central Queensland","4702","132",-24.184721
+150.51767,"Public","Biloela Hospital","Biloela","2 Hospital Road","Central Queensland","4715","133",-24.39599
+148.878408,"Public","Blackwater Hospital","Blackwater","Mackenzie Street","Central Queensland","4717","134",-23.571757
+148.15507,"Public","Emerald Hospital","Emerald","69 Hospital Road","Central Queensland","4720","135",-23.51523
+151.249084,"Public","Gladstone Hospital","Gladstone","1 Flinders Street","Central Queensland","4680","136",-23.850463
+150.3922,"Public","Mount Morgan Hospital","Mount Morgan","Cnr Black & Dee Streets","Central Queensland","4714","139",-23.6457
+149.976593,"Public","Moura Hospital","Moura","14 Nott Street","Central Queensland","4718","140",-24.575691
+150.494917,"Public","Rockhampton Base Hospital","Rockhampton","2 Canning Street","Central Queensland","4700","141",-23.379673
+148.084763,"Public","Springsure Hospital","Springsure","21 Woodbine Street","Central Queensland","4722","142",-24.120123
+150.076,"Public","Theodore Hospital","Theodore","87 The Boulevard","Central Queensland","4719","143",-24.943
+149.4557,"Public","Woorabinda Hospital","Woorabinda","1 Munns Drive","Central Queensland","4702","145",-24.131
+145.294083,"Public","Barcaldine Hospital","Barcaldine","25 Oak Street","Central West","4725","152",-23.55336
+145.4498,"Public","Blackall Hospital","Blackall","Shamrock Street","Central West","4472","153",-24.4225
+144.261993,"Public","Longreach Hospital","Longreach","Jabiru Streets","Central West","4370","156",-23.43656
+143.040778,"Public","Winton Hospital","Winton","Bloomfield Street","Central West","4735","159",-22.38081
+147.6325,"Public","Clermont Hospital","Clermont","Francis Street","Mackay","4721","171",-22.8277
+149.1554,"Public","Mackay Base Hospital","Mackay","475 Bridge Road","Mackay","4740","172",-21.1459
+148.055333,"Public","Moranbah Hospital","Moranbah","Elliott Street","Mackay","4744","173",-22.002165
+148.585,"Public","Proserpine Hospital","Proserpine","26 - 34 Taylor Street","Mackay","4800","174",-20.4
+149.2102,"Public","Sarina Hospital","Sarina","1 Hospital Street","Mackay","4737","175",-21.421
+148.352928,"Public","Dysart Hospital","Dysart","28 Queen Elizabeth Drive","Mackay","4745","176",-22.583086
+147.407761,"Public","Ayr Hospital","Ayr","2 Chippendale Street","Townsville","4807","191",-19.563854
+148.240055,"Public","Bowen Hospital","Bowen","61 Gregory Street","Mackay","4805","192",-20.00734
+146.264105,"Public","Charters Towers Hospital","Charters Towers","137-139 Gill Street","Townsville","4820","193",-20.076848
+147.837769,"Public","Collinsville Hospital","Collinsville","81 Garrick Street","Mackay","4804","194",-20.546286
+147.416672,"Public","Home Hill Hospital","Home Hill","72 Eleventh Ave","Townsville","4806","195",-19.661727
+146.164223,"Public","Ingham Hospital","Ingham","2 McIlwraith Street","Townsville","4850","196",-18.65167
+146.576974,"Public","Joyce Palmer Health Services","Palm Island","Beach Road","Townsville","4816","197",-18.737296
+146.76236,"Public","Townsville Hospital","Douglas","100 Angus Smith Drive","Townsville","4814","200",-19.319276
+153.026705,"Public","Royal Brisbane & Women's Hospital","Herston","Butterfield Street","Metro North","4029","201",-27.447924
+145.483,"Public","Atherton Hospital","Atherton","Cnr Jack & Louise Streets","Cairns and Hinterland","4883","211",-17.2671
+145.91893,"Public","Babinda Hospital","Babinda","128 Munro Street","Cairns and Hinterland","4861","212",-17.342804
+142.3849,"Public","Bamaga Hospital","Bamaga","Sagaukaz Street","Torres and Cape","4876","213",-10.8941
+145.7687,"Public","Cairns Hospital","Cairns","165 The Esplanade","Cairns and Hinterland","4870","214",-16.9127
+145.250412,"Public","Cooktown Hospital","Cooktown","48 Hope Street","Torres and Cape","4871","216",-15.477747
+145.7865,"Public","Gordonvale Hospital","Gordonvale","Highleigh Road","Cairns and Hinterland","4865","220",-17.0876
+145.380417,"Public","Herberton Hospital","Herberton","23 Grace Street","Cairns and Hinterland","4872","221",-17.380276
+146.030151,"Public","Innisfail Hospital","Innisfail","87 Rankin Street","Cairns and Hinterland","4860","222",-17.519106
+145.424469,"Public","Mareeba Hospital","Mareeba","21 Lloyd Street","Cairns and Hinterland","4880","223",-16.987118
+145.368256,"Public","Mossman Hospital","Mossman","9 Hospital Street","Cairns and Hinterland","4873","224",-16.463902
+142.211151,"Public","Thursday Island Hospital","Thursday Island","163 Douglas Street","Torres and Cape","4875","226",-10.587988
+145.924583,"Public","Tully Hospital","Tully","17 Bryant Street","Cairns and Hinterland","4854","227",-17.926273
+141.8813,"Public","Weipa Hospital","Weipa","Central Ave & Northern Ave","Torres and Cape","4874","228",-12.6235
+140.52781,"Public","Cloncurry Hospital","Cloncurry","1 Musgrave Street","North West","4824","243",-20.705626
+144.187851,"Public","Hughenden Hospital","Hughenden","Flinders Highway & Sales Yards Road","Townsville","4821","244",-20.843524
+141.750244,"Public","Julia Creek Hospital","Julia Creek","1 Burke Street","North West","4823","245",-20.655987
+139.49408,"Public","Mount Isa Hospital","Mount Isa","30 Camooweal Street","North West","4825","246",-20.730682
+141.087372,"Public","Normanton Hospital","Normanton","Brown Street","North West","4890","247",-17.677692
+143.1491,"Public","Richmond Hospital","Richmond","Gallaghers Drive","Townsville","4822","248",-20.7389
+139.1786,"Public","Mornington Island Hospital","Mornington Island","Lardhill Street","North West","4871","249",-16.6663
+138.825094,"Public","Doomadgee Hospital","Doomadgee","Sharpe Street","North West","4830","252",-17.943042
+150.734728,"Public","Capricorn Coast Hospital","Yeppoon","8 Hoskyn Drive","Central Queensland","4703","144",-23.144013
+153.377004,"Public","Robina Hospital","Robina","2 Bayberry Lane","Gold Coast","4226","934",-28.072904
+153.40004,"Public - Primary Health Centre (previously declared hospital)","Marie Rose Centre (Dunwich)","Dunwich","Cnr Petrie Street & Oxley Parade","Metro South","4183","25",-27.497164
+151.645496,"Public - Primary Health Centre (previously declared hospital)","Mount Perry Health Centre","Mount Perry","150 Heusman Street","Wide Bay","4671","73",-25.180598
+149.9564,"Public - Primary Health Centre (previously declared hospital)","Wandoan Clinic","Wandoan","14 Henderson Road","Darling Downs","4419","106",-26.1198
+143.820986,"Public - Primary Health Centre (previously declared hospital)","Thargomindah Hospital","Thargomindah","79 Dowling Street","South West","4492","122",-27.997525
+149.181335,"Public - Primary Health Centre (previously declared hospital)","Wallumbilla Outpatient Clinic","Wallumbilla","West Street","South West","4428","123",-26.582275
+145.245175,"Public - Primary Health Centre (previously declared hospital)","Aramac Hospital","Aramac","Lodge Street","Central West","4726","151",-22.966552
+153.091856,"Public","Sunshine Coast University Hospital","Britanya","Doherty Street","Sunshine Coast","4575","32",-26.684274
+139.909037,"Public - Primary Health Centre (previously declared hospital)","Boulia Primary Health Centre","Boulia","Wills Street","Central West","4829","154",-22.908202
+143.070537,"Public - Primary Health Centre (previously declared hospital)","Jundah Primary Health Centre","Jundah","1 Hospital Road","Central West","4736","155",-24.819934
+144.546503,"Public - Primary Health Centre (previously declared hospital)","Muttaburra Primary Health Centre","Muttaburra","Edkins Street","Central West","4732","157",-22.593751
+146.249039,"Public - Primary Health Centre (previously declared hospital)","Tambo Primary Health Care Centre","Tambo","4 Garden Street","Central West","4478","158",-24.8804
+144.439115,"Public - Primary Health Centre (previously declared hospital)","Isisford Primary Health Centre","Isisford","St Helena Street","Central West","4731","160",-24.261487
+142.65593,"Public - Primary Health Centre (previously declared hospital)","Windorah Clinic","Windorah","15 Victoria Street","Central West","4481","162",-25.42079
+144.5289,"Public - Primary Health Centre (previously declared hospital)","Chillagoe Primary Health Centre","Chillagoe","21 Hospital Avenue","Cairns and Hinterland","4871","215",-17.149559
+142.240826,"Public - Primary Health Centre (previously declared hospital)","Croydon Hospital","Croydon","Temple Street","Cairns and Hinterland","4871","217",-18.211159
+143.603447,"Public - Primary Health Centre (previously declared hospital)","Forsayth Hospital","Forsayth","Fourth Street","Cairns and Hinterland","4871","218",-18.587969
+143.547158,"Public - Primary Health Centre (previously declared hospital)","Georgetown Hospital","Georgetown","High Street","Cairns and Hinterland","4871","219",-18.292781
+145.1134,"Public - Primary Health Centre (previously declared hospital)","Mount Garnet Outpatients Clinic","Mount Garnet","2 Galena Street","Cairns and Hinterland","4872","225",-17.6792
+145.86509,"Public - Primary Health Centre (previously declared hospital)","Yarrabah Emergency Service","Yarrabah","Loban Lane","Cairns and Hinterland","4871","229",-16.906976
+141.729982,"Public - Primary Health Centre (previously declared hospital)","Aurukun Primary Health Care Centre","Aurukun","Kang Kang Road","Torres and Cape","4871","230",-13.354997
+145.109222,"Public - Primary Health Centre (previously declared hospital)","Hope Vale Primary Health Care Centre","Hope Vale","Aerodrome Road","Torres and Cape","4871","231",-15.293935
+145.318464,"Public - Primary Health Centre (previously declared hospital)","Wujal Wujal Primary Health Care Centre","Wujal Wujal","1 Cape Tribulation Road","Torres and Cape","4871","232",-15.948934
+143.343673,"Public - Primary Health Centre (previously declared hospital)","Lockhart River Primary Health Care Centre","Lockhart River","Paytam Street","Torres and Cape","4871","233",-12.786333
+139.5487,"Public - Primary Health Centre (previously declared hospital)","Burketown Health Clinic","Burketown","Truganini Rd","North West","4830","241",-17.7318
+138.120956,"Public - Primary Health Centre (previously declared hospital)","Camooweal Health Clinic","Camooweal","Nowranie Street","North West","4828","242",-19.918444
+140.841965,"Public - Primary Health Centre (previously declared hospital)","Karumba Health Clinic","Karumba","160 Walker Street","North West","4891","250",-17.484671
+139.514535,"Public - Primary Health Centre (previously declared hospital)","Dajarra Health Clinic","Dajarra","8 Burke Street","North West","4825","251",-21.694521
+141.745172,"Public - Primary Health Centre (previously declared hospital)","Kowanyama Primary Health Care Centre","Kowanyama","Carrington Street","Torres and Cape","4871","253",-15.476312
+141.621727,"Public - Primary Health Centre (previously declared hospital)","Pormpuraaw Primary Health Care Centre","Pormpuraaw","Yalu Street","Torres and Cape","4871","254",-14.901538
+143.20134,"Public - Primary Health Centre (previously declared hospital)","Coen Primary Health Care Centre","Coen","Arnbrust Street","Torres and Cape","4871","255",-13.945012
+148.021896,"Public - Primary Health Centre (previously declared hospital)","Capella Outpatients Clinic","Capella","5 Slider Street","Central Queensland","4702","905",-23.080248
+145.108154,"Public - Primary Health Centre (previously declared hospital)","Dimbulah Outpatients Clinic","Dimbulah","11 Stephens Street","Cairns and Hinterland","4872","908",-17.147674
+149.673401,"Public - Primary Health Centre (previously declared hospital)","Duaringa Outpatients Clinic","Duaringa","8 Alice Street","Central Queensland","4702","910",-23.714577
+149.676459,"Public - Primary Health Centre (previously declared hospital)","Glenmorgan Outpatients Clinic","Glenmorgan","QCWA Hall, Sybill Street","Darling Downs","4423","912",-27.249086
+144.4462,"Public - Primary Health Centre (previously declared hospital)","Laura Primary Health Care Centre","Laura","1 Gladwell Street","Torres and Cape","4871","915",-15.5601
+146.849854,"Public - Primary Health Centre (previously declared hospital)","Magnetic Island Hospital","Magnetic Island","76 Sooning St","Townsville","4819","916",-19.157451
+145.596291,"Public - Primary Health Centre (previously declared hospital)","Malanda Outpatients Clinic","Malanda","46 Patrick Street","Cairns and Hinterland","4885","917",-17.353909
+149.882,"Public - Primary Health Centre (previously declared hospital)","Meandarra Outpatients Clinic","Meandarra","Gibson St","Darling Downs","4422","919",-27.327
+145.60822,"Public - Primary Health Centre (previously declared hospital)","Millaa Millaa Outpatients Clinic","Millaa Millaa","45 Palm Avenue","Cairns and Hinterland","4886","920",-17.514654
+147.107759,"Public - Primary Health Centre (previously declared hospital)","Morven Outpatients Clinic","Morven","Warrego Highway","South West","4468","921",-26.414609
+145.47934,"Public - Primary Health Centre (previously declared hospital)","Ravenshoe Outpatient Clinic","Ravenshoe","2 Grigg St","Cairns and Hinterland","4872","924",-17.602015
+141.887501,"Public - Primary Health Centre (previously declared hospital)","Malakoola Primary Health Care Centre (Napranum)","Napranum","Moun Ding Street","Torres and Cape","4874","928",-12.683541
+153.0276,"Public","Mater Adult Hospital","South Brisbane","Raymond Terrace","Mater Public Hospitals","4101","1",-27.4855
+153.027481,"Public","Lady Cilento Children's Hospital","South Brisbane","27 Raymond Terrace","Children's Health Queensland","4101","202",-27.484674
+153.0273,"Public","Mater Mother's Hospital","South Brisbane","Raymond Terrace","Mater Public Hospitals","4101","3",-27.4855
+153.0218,"Public","The Prince Charles Hospital","Chermside","Rode Road & Webster Road","Metro North","4032","4",-27.3907
+153.033806,"Public","Princess Alexandra Hospital","Woolloongabba","199 Ipswich Road","Metro South","4102","11",-27.499178
+152.758679,"Public","Ipswich Hospital","Ipswich","Chelmsford Avenue","West Moreton","4305","15",-27.619128
+153.104757,"Public","Redcliffe Hospital","Redcliffe","Anzac Avenue","Metro North","4020","16",-27.227983
+153.023969,"Public","Ellen Barron Family Centre","Chermside","Hamilton Road","Children's Health Queensland","4032","17",-27.385309
+153.04875,"Public","Queen Elizabeth II Jubilee Hospital","Coopers Plains","Cnr Kessels & Troughton Roads","Metro South","4108","22",-27.559654
+153.252121,"Public","Redland Hospital","Cleveland","21 Weippin Street","Metro South","4163","28",-27.540281
+153.141502,"Public","Logan Hospital","Meadowbrook","8 Armstrong Road","Metro South","4131","29",-27.670061
+152.963075,"Public","Caboolture Hospital","Caboolture","120 McKean Street","Metro North","4510","30",-27.079691
+153.0024,"Public","Beaudesert Hospital","Beaudesert","64 Tina Street","Metro South","4285","41",-27.9849
+152.679054,"Public","Boonah Hospital","Boonah","11 Leonard Street","West Moreton","4310","42",-27.999102
+153.1204,"Public","Caloundra Hospital","Caloundra","4 West Terrace","Sunshine Coast","4551","43",-26.8009
+152.418144,"Public","Esk Hospital","Esk","30 Highland Street","West Moreton","4312","44",-27.240402
+152.2765,"Public","Gatton Hospital","Gatton","97 - 103 William Street","West Moreton","4343","45",-27.5669
+152.5618,"Public","Kilcoy Hospital","Kilcoy","19 Brown Street","Metro North","4515","46",-26.9407
+152.3997,"Public","Laidley Hospital","Laidley","75 William Street","West Moreton","4341","47",-27.6328
+152.844284,"Public","Maleny Hospital","Maleny","17 Bean Street","Sunshine Coast","4552","48",-26.754936
+141.291984,"Public - Primary Health Centre","McKinlay Primary Health Clinic","McKinlay","24 Wylde Street","North West","4823","969",-21.269901
+139.471369,"Public - Primary Health Centre (previously declared hospital)","Bedourie Primary Health Centre","Bedourie","Herbert Street","Central West","4829","938",-24.360515
+147.480152,"Public - Primary Health Centre (previously declared hospital)","Bollon Community Clinic","Bollon","Main Street","South West","4488","901",-28.031697
+142.384883,"Public - Primary Health Centre (previously declared hospital)","Bamaga Primary Health Care Centre","Bamaga","157 Adidi St","Torres and Cape","4876","967",-10.894111
+142.118485,"Public - Primary Health Centre (previously declared hospital)","Badu Island Primary Health Care Centre","Badu Island","181 Tamwoy St","Torres and Cape","4875","942",-10.102433
+142.188453,"Public - Primary Health Centre (previously declared hospital)","Boigu Island Primary Health Care Centre","Boigu Island","Chambers St","Torres and Cape","4875","943",-9.271218
+142.640045,"Public - Primary Health Centre (previously declared hospital)","Saibai Island Primary Health Care Centre","Saibai Island",null,"Torres and Cape","4875","949",-9.405492
+143.756129,"Public - Primary Health Centre (previously declared hospital)","Darnley Island Primary Health Care Centre","Darnely Island","Lot 64 The Esplanade","Torres and Cape","4875","944",-9.587018
+144.076981,"Public - Primary Health Centre (previously declared hospital)","Yaraka Clinic","Yaraka","Jarley Street","Central West","4702","161",-24.883122
+150.3088,"Public - Primary Health Centre (previously declared hospital)","Moonie Outpatients Clinic","Moonie","Moonie Highway","Darling Downs","4406","935",-27.7828
+147.722422,"Public - Primary Health Centre (previously declared hospital)","Gemfields Outpatients Clinic","Saphire","Sapphire Rubyvale Road","Central Queensland","4702","940",-23.459754
+141.904769,"Public - Primary Health Centre (previously declared hospital)","Mapoon Primary Health Care Centre","Mapoon","Red Beach","Torres and Cape","4874","965",-12.021421
+139.351569,"Public - Primary Health Centre (previously declared hospital)","Birdsville Primary Health Centre","Birdsville","Vaughan Street","Central West","4482","913",-25.898549
+151.934966,"Public Psych","Baillie Henderson Hospital","Toowoomba","Tor St & Hogg Streets","Darling Downs","4350","701",-27.526178
+142.774141,"Public - Primary Health Centre (previously declared hospital)","Yam Island Primary Health Care Centre","Yam Island","Lot 13 Garth Lane","Torres and Cape","4875","953",-9.901663
+142.367428,"Public - Primary Health Centre (previously declared hospital)","Seisia Primary Health Care Centre","Bamaga","Seisa Community Council, C/PO","Torres and Cape","4876","960",-10.847924
+142.248646,"Public - Primary Health Centre (previously declared hospital)","Horn Island Primary Health Care Centre","Horn Island","29 Nawie St","Torres and Cape","4875","80062",-10.592123
+142.323015,"Public - Primary Health Centre (previously declared hospital)","St Paul's Primary Health Care Centre","Moa Island","Lot 33 Main St, St Pauls Village","Torres and Cape","4875","950",-10.180233
+142.324522,"Public - Primary Health Centre (previously declared hospital)","Injinoo Primary Health Care Centre","Bamaga","Injinoo Community Council, C/PO","Torres and Cape","4876","957",-10.927704
+142.181237,"Public - Primary Health Centre (previously declared hospital)","Mabuiag Island Primary Health Care Centre","Mabuiag Island","Lot 2 Map St","Torres and Cape","4875","947",-9.951407
+143.408384,"Public - Primary Health Centre (previously declared hospital)","York Island Primary Health Care Centre","York Island",null,"Torres and Cape","4875","954",-9.752329
+142.341878,"Public - Primary Health Centre (previously declared hospital)","Umagico Primary Health Care Centre","Bamaga","Umagico Community Council, C/PO","Torres and Cape","4876","962",-10.890701
+142.823329,"Public - Primary Health Centre (previously declared hospital)","Warraber Island Primary Health Care Centre","Warraber Island","Cnr Esplanade and Aikuru St","Torres and Cape","4875","952",-10.20767
+142.537607,"Public - Primary Health Centre (previously declared hospital)","Dauan Island Primary Health Care Centre","Dauan Island",null,"Torres and Cape","4875","945",-9.422112
+143.06739,"Public - Primary Health Centre (previously declared hospital)","Coconut Island Health Centre","Poruma Island","William St","Torres and Cape","4875","946",-10.051004
+144.047497,"Public - Primary Health Centre (previously declared hospital)","Murray Island Primary Health Centre","Murray Island",null,"Torres and Cape","4875","948",-9.920532
+143.546846,"Public - Primary Health Centre (previously declared hospital)","Stephen Island Primary Health Care Centre","Stephen Island","Lot 10 Orankle St","Torres and Cape","4875","951",-9.510841
+142.248871,"Public - Primary Health Centre (previously declared hospital)","Kubin Primary Health Care Centre","Moa Island","Lot 77 Kubin Village","Torres and Cape","4875","961",-10.212789
+142.378729,"Public - Primary Health Centre (previously declared hospital)","New Mapoon Health Centre","Bamaga","C/PO","Torres and Cape","4876","958",-10.867763
+142.211209,"Public - Primary Health Centre (previously declared hospital)","Thursday Island Primary Health Care Centre","Thursday Island","74 Douglas Street","Torres and Cape","4875","966",-10.5875
+146.267273,"Public Psych","Charters Towers Rehabilitation Unit","Charters Towers","35 Mill Street","Townsville","4820","703",-20.071198
+146.73394,"Public Psych","Kirwan Mental Health Rehabilitation Unit","Kirwan","138 Thurgingowa Drive","Townsville","4817","715",-19.304002
+152.91087,"Public Psych","The Park Centre for Mental Health","Wacol","Wolston Park Road","West Moreton","4076","751",-27.596087
