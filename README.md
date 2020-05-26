@@ -21,6 +21,10 @@ Wednesday **27th May**.
 
 [Google Docs](https://docs.google.com/document/d/1cmAZPMd_cMoZovoOQ9oAVQEcvcezhG1WOlRujWO3Qxw/edit?usp=sharing)
 
+## Video
+
+[Toutube](https://youtu.be/3EfNvGMjbSo)
+
 ## About instances
 
 Four instances exist. Each one has 2 VCPU, 9 GB RAM and private IP address.
