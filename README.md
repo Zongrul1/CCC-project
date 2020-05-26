@@ -23,7 +23,7 @@ Wednesday **27th May**.
 
 ## Video
 
-[Toutube](https://youtu.be/3EfNvGMjbSo)
+[Youtube](https://youtu.be/3EfNvGMjbSo)
 
 ## About instances
 
