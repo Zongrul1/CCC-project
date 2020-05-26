@@ -1,0 +1,5 @@
+- hosts: page
+  gather_facts: false
+
+  roles:
+    - role: visual
