@@ -12,7 +12,11 @@ var myChartWordcloud = echarts.init(document.getElementById('wordcloud'),'shine'
 
             var maskImage = new Image();
             var Wordcloud = {
-                tooltip: {},
+                toolbox: {
+                    feature: {
+                        saveAsImage: {show: true, title: 'saveAsImage'}
+                    }
+                },
                 series: [ {
                     type: 'wordCloud',
                     sizeRange: [10, 40],

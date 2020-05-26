@@ -10,10 +10,15 @@ var optionPopulation = {
             return tar.name + '<br/>' + tar.seriesName + ' : ' + tar.value;
         }
     },
+    toolbox: {
+        feature: {
+            saveAsImage: {show: true, title: 'saveAsImage'}
+        }
+    },
     grid: {
         containLabel: true,
         x:0,
-        y:5,
+        y:25,
         x2:20,
         y2:5
     },
@@ -23,7 +28,11 @@ var optionPopulation = {
         data: ['NSW', 'VIC', 'QLD', 'WA', 'SA', 'TAS', 'NT', 'ACT']
     },
     xAxis: {
-        type: 'value'
+        type: 'value',
+        axisLabel: {
+            interval:0,
+            rotate:20
+         }
     },
     series: [
         {

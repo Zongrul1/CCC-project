@@ -18,14 +18,15 @@ var optionLocation = {
     },
     toolbox: {
         feature: {
-            dataView: {show: true, readOnly: false, title: 'dataView'},
+            dataView: {show: true, readOnly: false, title: 'dataView', lang: ['Data', 'Close', 'Refresh']},
             magicType: {show: true, type: ['line', 'bar'], title: {line: 'line', bar: 'bar', stack: 'stack', tiled: 'tiled'}},
             restore: {show: true, title: 'restore'},
             saveAsImage: {show: true, title: 'saveAsImage'}
         }
     },
     legend: {
-        data: ['Tweet', 'Confirmed Cases']
+        data: ['Tweet', 'Confirmed Cases'],
+        y: '15px'
     },
     xAxis: {
         type: 'category',

@@ -15,10 +15,15 @@ source: [
     [5380, 5380, '#auspol']       
 ]
 },
+toolbox: {
+    feature: {
+        saveAsImage: {show: true, title: 'saveAsImage'}
+    }
+},
 grid: {
     containLabel: true,
     x:0,
-    y:5,
+    y:30,
     x2:20,
     y2:5
 },

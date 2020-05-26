@@ -8,13 +8,8 @@ var optionLang = {
         show: true,
         feature: {
             mark: {show: true},
-            dataView: {show: true, readOnly: false},
-            magicType: {
-                show: true,
-                type: ['pie', 'funnel']
-            },
-            restore: {show: true},
-            saveAsImage: {show: true}
+            dataView: {show: true, readOnly: false, title: 'dataView', lang: ['Data', 'Close', 'Refresh']},
+            saveAsImage: {show: true, title: 'saveAsImage'}
         }
     },
     grid: {
