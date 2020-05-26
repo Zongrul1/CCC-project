@@ -8,9 +8,14 @@ Wednesday **27th May**.
 
 | Date | Task |
 | ---- | ---- |
-| 29 April - 5 May | xxx |
-| 6 May - 12 May  | xxx |
-| 13 May - 19 May | xxx |
+| 29 April - 5 May | Phase 1 |
+| 6 May - 12 May  | Phase 2 |
+| 13 May - 22 May | Phase 3 |
+| 22 May - 26 May | Phase 4 |
+
+## HomePage
+
+[http://172.26.130.129/](http://172.26.130.129/)
 
 ## Report 
 

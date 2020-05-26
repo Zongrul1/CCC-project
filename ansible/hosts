@@ -1,19 +1,22 @@
-[public]
+[other]
 ins1 ansible_ssh_host=172.26.133.24
 ins1 ansible_ssh_user='ubuntu'
 ins1 ansible_ssh_port=22
 ins1 ansible_ssh_private_key_file=/home/zongru/ins1.pem
 ins1 ansible_python_interpreter=/usr/bin/python3
+[page]
 ins2 ansible_ssh_host=172.26.130.129
 ins2 ansible_ssh_user='ubuntu'
 ins2 ansible_ssh_port=22
 ins2 ansible_ssh_private_key_file=/home/zongru/ins1.pem
 ins2 ansible_python_interpreter=/usr/bin/python3
+[other2]
 ins3 ansible_ssh_host=172.26.131.215
 ins3 ansible_ssh_user='ubuntu'
 ins3 ansible_ssh_port=22
 ins3 ansible_ssh_private_key_file=/home/zongru/ins1.pem
 ins3 ansible_python_interpreter=/usr/bin/python3
+[public]
 ins4 ansible_ssh_host=172.26.131.157
 ins4 ansible_ssh_user='ubuntu'
 ins4 ansible_ssh_port=22
