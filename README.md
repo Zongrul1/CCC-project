@@ -1,4 +1,6 @@
 # COVID-19-Data-Analysis
+![](/covid19.png)
+
 
 ## HomePage
 
