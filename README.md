@@ -1,17 +1,4 @@
-# CCC Assignment 2
-
-
-## Deadlines
-Wednesday **27th May**.
-
-## Schedule
-
-| Date | Task |
-| ---- | ---- |
-| 29 April - 5 May | Phase 1 |
-| 6 May - 12 May  | Phase 2 |
-| 13 May - 22 May | Phase 3 |
-| 22 May - 26 May | Phase 4 |
+COVID-19-Data-Analysis
 
 ## HomePage
 
